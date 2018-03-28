@@ -1,0 +1,10 @@
+[
+{
+  "modid": "hl2",
+  "name": "HuskyLib 2",
+  "description": "This is my lib mod",
+  "version": "$version",
+  "mcversion": "$mcversion",
+  "authorList": ["TheGamingHuskyMC"]
+}
+]
